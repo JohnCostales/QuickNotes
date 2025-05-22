@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
+  <diagram name="Page-1" id="grXKXZgEOW9ke9Mc3A4f">
+    <mxGraphModel dx="1673" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="1130" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;fontColor=#000000;strokeColor=light-dark(#000000,#000000);dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="179" width="215" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wOTfC_6hbNYKBpZ-PtiD-9" target="wOTfC_6hbNYKBpZ-PtiD-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="273.44" as="sourcePoint" />
+            <mxPoint x="732" y="273.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wOTfC_6hbNYKBpZ-PtiD-3" target="wOTfC_6hbNYKBpZ-PtiD-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="244" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="179" width="440" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-8" value="Cache" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#FFFFFF,#7EA6E0);" vertex="1" parent="1">
+          <mxGeometry x="1000" y="234" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-9" value="ui.application.transferSzn" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="370" y="244" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-10" value="transferSzn.API" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="720" y="244" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wOTfC_6hbNYKBpZ-PtiD-10" target="wOTfC_6hbNYKBpZ-PtiD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-14" value="AWS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-16" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="1280" y="70" width="300" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-17" value="External APIs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-18" value="SportsMonks.API" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="150" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.019;entryY=0.744;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="wOTfC_6hbNYKBpZ-PtiD-13" target="wOTfC_6hbNYKBpZ-PtiD-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-20" value="HTTP Request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-22" value="Cache check" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="900" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wOTfC_6hbNYKBpZ-PtiD-23" value="HTTP Request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
